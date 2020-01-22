@@ -9,7 +9,7 @@ and for writing application software that does not depend on application-specifi
 
 #### History
 The format was originally based on the conceptual model of the Common Data Format 
-developed by NASA, but has since diverged and is not compatible with it.
+developed by NASA, but has since diverged and is not compatible with it anymore.
 
 ![netcdf](https://user-images.githubusercontent.com/60137488/72841969-c02b1a80-3c97-11ea-98e3-056199b1e635.jpg)
 
