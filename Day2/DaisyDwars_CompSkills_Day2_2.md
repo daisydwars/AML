@@ -3,7 +3,8 @@
 _Second example_ <br/>
 
 **R (.r)**: R is a file extension for a script written in R. R is a programming 
-language designed for statistical computing and graphics purposes. 
+language designed for statistical computing and graphics purposes. RStudio is an 
+integrated development environment for R.
 
 #### History
 R was created by Ross Ihaka and Robert Gentleman and is currently developed by the R Development Core Team. The project was conceived in 1992, with an initial version released in 1995.
