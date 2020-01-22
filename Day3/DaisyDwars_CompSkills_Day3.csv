@@ -1,0 +1,64 @@
+Column 1,Column 3,Column 4,Column 5,Column 6,Column 7,Column 8,Column 9,Column 10,Column 11,Column 12,Column 13,Column 14,Column 15,Column 16
+State- Station,Length of record years),January (inches),February (inches),March (inches),April (inches),May (inches),June (inches),July (inches),August (inches),September (inches),October (inches),November (inches),December (inches),Annual (inches)
+Alabama - Mobile,67.0,0.1,0.1,0.1,T,T,0.0,T,0.0,0.0,0.0,T,0.1,0.4
+Alaska - Juneau,65.0,26.7,18.9,15.5,3.5,T,T,0.0,0.0,T,1.1,12.4,21.2,98.2
+Arkansas - Little Rock,58.0,2.4,1.5,0.5,T,T,T,0.0,0.0,0.0,T,0.2,0.6,5.2
+Colorado - Denver,65.0,8.0,7.4,12.2,8.6,1.6,0.0,T,T,1.6,4.0,8.8,7.9,59.9
+Connecticut - Hartford,52.0,13.2,12.3,10.0,1.5,0.0,T,0.0,0.0,0.0,0.1,2.1,10.9,50.3
+Delaware - Wilmington,59.0,6.6,6.5,3.3,0.2,T,T,T,0.0,0.0,0.1,0.9,3.7,21.1
+District of Columbia - Washington,66.0,5.2,5.4,2.3,2.3,T,T,T,T,0.0,0.0,0.8,3.2,19.2
+Georgia - Atlanta,70.0,1.0,0.5,0.5,T,0.0,0.0,T,0.0,0.0,T,T,0.2,2.1
+Idaho - Boise,70.0,6.4,3.7,1.7,0.6,0.1,T,T,T,T,0.1,2.3,5.9,20.7
+Illinois - Chicago,50.0,11.4,8.1,6.5,1.6,0.1,T,T,T,T,0.4,2.1,8.8,38.8
+Illinois- Peoria,66.0,6.6,5.3,4.2,0.8,T,T,T,0.0,T,0.1,2.1,6.4,25.3
+Indiana - Indianapolis,78.0,7.0,5.7,3.5,0.5,T,T,0.0,T,0.0,0.2,1.9,5.5,24.2
+Iowa - Des Moines,66.0,8.4,7.5,6.0,1.9,T,T,T,0.0,T,0.3,3.1,7.0,33.9
+Kansas - Wichita,56.0,4.0,4.1,2.8,0.2,T,T,T,T,T,0.0,1.4,3.6,16.0
+Kentucky - Louisville,62.0,5.2,4.2,3.2,0.1,T,T,T,T,0.0,0.1,1.0,2.5,16.2
+Louisiana - New Orleans,51.0,T,0.1,T,T,T,0.0,0.0,0.0,0.0,0.0,T,0.1,0.2
+Maine - Portland,69.0,19.1,16.6,13.3,3.1,0.2,0.0,T,0.0,T,0.2,3.3,15.1,70.8
+Maryland - Baltimore,59.0,6.0,7.0,3.6,0.1,T,T,T,0.0,0.0,T,1.0,3.6,21.2
+Massachusetts - Boston,72.0,12.9,11.9,8.1,0.9,0.0,T,T,T,0.0,0.0,1.3,8.3,43.2
+Michigan - Detroit,51.0,11.3,9.4,7.0,2.0,T,0.0,0.0,0.0,T,0.2,2.5,10.2,42.3
+Michigan- Sault Ste. Marie,62.0,29.2,18.8,14.4,5.9,0.5,T,T,T,0.1,2.4,15.6,31.2,118.4
+Minnesota - Duluth,66.0,17.6,12.2,14.0,6.8,0.7,T,T,T,0.1,1.6,12.3,16.2,81.7
+Minnesota- Minneapolis-St. Paul,67.0,10.4,8.1,10.6,2.8,0.1,T,T,T,T,0.5,7.6,9.8,49.8
+Mississippi - Jackson,38.0,0.5,0.2,0.2,T,0.0,0.0,0.0,T,0.0,0.0,T,0.1,1.0
+Missouri - Kansas City,75.0,5.3,4.5,3.4,0.8,T,T,T,T,T,0.1,1.3,4.6,20.0
+Missouri- St. Louis,73.0,5.3,4.5,3.8,0.5,T,T,T,0.0,0.0,T,1.4,4.1,19.7
+Montana - Great Falls,72.0,9.3,8.6,10.6,7.6,1.9,0.4,T,0.1,1.5,3.5,7.4,8.4,58.9
+Nebraska - Omaha,74.0,7.6,6.9,6.2,1.1,0.1,T,T,T,T,0.3,2.6,6.0,30.5
+Nevada - Reno,60.0,6.0,5.1,4.2,1.2,0.8,0.0,0.0,0.0,0.0,0.3,2.5,4.8,24.9
+New Hampshire - Concord,68.0,18.1,14.4,11.6,2.8,0.1,T,0.0,0.0,T,0.1,3.8,14.5,65.1
+New Jersey - Atlantic City,60.0,5.0,5.6,2.6,0.3,T,T,T,0.0,0.0,T,0.4,2.6,16.2
+New Mexico - Albuquerque,70.0,2.5,2.1,1.8,0.6,T,T,T,T,T,0.1,1.2,3.0,11.3
+New York - Albany,63.0,16.9,13.4,11.5,2.8,0.1,T,T,0.0,T,0.2,3.9,14.9,64.0
+New York- Buffalo,66.0,24.3,17.9,12.5,3.2,0.2,T,T,T,T,0.7,10.9,24.4,94.3
+New York- New York \1,141.0,7.7,8.7,5.1,0.9,T,0.0,T,0.0,0.0,T,0.9,5.6,28.9
+North Carolina - Charlotte,70.0,2.2,1.8,1.2,T,T,T,0.0,0.0,0.0,T,0.1,0.5,5.8
+North Carolina- Raleigh,65.0,2.8,2.6,1.3,T,T,T,T,0.0,0.0,0.0,0.1,0.8,7.6
+North Dakota - Bismarck,70.0,7.7,6.9,8.6,3.9,0.9,T,T,T,0.2,1.9,6.8,7.6,44.0
+Ohio - Cincinnati,62.0,7.2,5.6,4.2,0.5,0.0,T,T,T,0.0,0.3,2.0,3.8,23.5
+Ohio- Cleveland,68.0,14.7,12.7,11.0,2.9,0.1,T,T,0.0,T,0.6,5.0,12.5,59.3
+Ohio- Columbus,62.0,8.9,6.2,4.8,1.0,T,T,T,0.0,T,0.1,2.2,5.4,28.4
+Oklahoma - Oklahoma City,70.0,3.2,2.4,1.5,T,T,T,T,T,T,T,0.6,2.1,9.6
+Oregon - Portland,55.0,3.2,1.1,0.4,T,0.0,T,0.0,T,T,0.0,0.4,1.4,6.5
+Pennsylvania - Philadelphia,67.0,6.0,7.0,3.5,0.3,T,T,0.0,0.0,0.0,T,0.7,3.7,20.8
+Pennsylvania- Pittsburgh,57.0,12.0,9.5,8.1,1.8,0.1,T,T,T,T,0.4,3.4,8.3,43.5
+Rhode Island - Providence,56.0,9.7,9.7,7.4,0.7,0.2,0.0,0.0,0.0,0.0,0.1,1.3,7.6,36.3
+South Carolina - Columbia,61.0,0.6,0.8,0.2,T,T,0.0,T,T,0.0,0.0,T,0.3,1.9
+South Dakota - Sioux Falls,64.0,6.9,7.9,9.3,3.3,T,T,T,T,T,0.9,6.0,7.4,41.5
+Tennessee - Memphis,52.0,2.2,1.4,0.9,T,T,T,0.0,0.0,0.0,T,0.1,0.6,5.2
+Tennessee- Nashville,63.0,3.6,3.0,1.5,0.0,0.0,T,0.0,T,0.0,0.0,0.4,1.4,10.0
+Texas - Dallas-Fort Worth,51.0,1.1,1.0,0.2,T,T,0.0,0.0,0.0,0.0,T,0.1,0.3,2.6
+Texas- El Paso,60.0,1.3,0.8,0.4,0.3,T,T,T,0.0,T,0.0,1.0,1.7,5.4
+Texas- Houston,75.0,0.2,0.2,T,T,T,T,0.0,0.0,0.0,0.0,T,0.0,0.4
+Utah - Salt Lake City,81.0,13.4,10.0,9.0,4.9,0.6,T,T,T,0.1,1.3,6.8,12.3,58.3
+Vermont - Burlington,66.0,19.4,16.9,13.8,4.0,0.2,0.0,T,T,T,0.2,6.6,19.0,80.3
+Virginia - Norfolk,59.0,3.0,2.9,1.0,0.0,T,T,0.0,T,0.0,0.0,0.0,1.0,7.9
+Virginia- Richmond,70.0,4.9,3.8,2.5,0.1,T,0.0,T,0.0,0.0,T,0.4,2.1,13.6
+Washington - Seattle-Tacoma,53.0,4.9,1.6,1.3,0.1,T,0.0,T,0.0,T,0.0,1.1,2.4,11.4
+Washington- Spokane,62.0,15.5,7.3,4.1,0.8,0.1,T,0.0,0.0,T,0.4,6.2,14.8,49.2
+West Virginia - Charleston,55.0,10.7,8.6,5.3,0.9,0.0,T,T,T,T,0.2,2.4,5.4,33.2
+Wisconsin - Milwaukee,69.0,13.9,9.7,8.6,2.0,0.1,T,T,T,T,0.2,3.0,11.1,48.5
+Wyoming - Cheyenne,74.0,6.1,6.4,11.8,9.5,3.4,0.2,T,T,1.1,4.1,7.2,6.8,55.8
