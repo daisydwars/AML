@@ -1,15 +1,15 @@
-### Data format 3 <br/><br/>
+### Data format 2 <br/><br/>
 
-_Third example_ <br/>
+_Second example_ <br/>
 
-**Network Common Data Form (NetCDF) (.nc)**: a data abstraction for storing 
-and retrieving multidimensional data. NetCDF is useful for supporting objects 
-@ -8,8 +8,8 @@ that contain dissimilar kinds of data in a heterogeneous network environment
-and for writing application software that does not depend on application-specific formats.
+**R (.r)**: R is a file extension for a script written in R. R is a programming 
+language designed for statistical computing and graphics purposes. Contains code 
+at the University of Auckland, New Zealand, and is currently developed by the R
+Development Core Team. R is named partly after the first names of the first two 
+R authors and partly as a play on the name of S. The project was conceived in 
+1992, with an initial version released in 1995.
 
 #### History
-The format was originally based on the conceptual model of the Common Data Format 
-developed by NASA, but has since diverged and is not compatible with it.
-
+R was created by Ross Ihaka and Robert Gentleman and is currently developed by the R Development Core Team. The project was conceived in 1992, with an initial version released in 1995.
 #### References
-Rew, R., & Davis, G. (1990). NetCDF: an interface for scientific data access. _IEEE computer graphics and applications, 10_(4), 76-82.
+Matloff, N. (2011). _The art of R programming: A tour of statistical software design._ No Starch Press.
